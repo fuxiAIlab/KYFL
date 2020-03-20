@@ -1,0 +1,8 @@
+title: KYFL
+logo:
+description: 'This is the detail page of the paper <br><strong><em>Keep You from Leaving: Churn Prediction in Online Games.</em></strong>'
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
+paper_link: /tree/master/docs/KYFL.pdf
+data_link: /tree/master/data
