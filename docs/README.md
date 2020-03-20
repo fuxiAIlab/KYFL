@@ -1,4 +1,4 @@
-# MVAN
+# KYFL
 The paper is accepted by the 25th International Conference on Database Systems for Advanced Applications (DASFAA 2020).
 
 # Authors
